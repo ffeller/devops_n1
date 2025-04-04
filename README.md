@@ -4,7 +4,7 @@ Programa básico contendo os métodos GET e POST para o exercício da aula sobre
 
 ## Como rodar o programa
 
-Após fazer o clone do repositório, instale as dependências do projeto:
+Após fazer o clone do repositório, instale as dependências deste projeto:
 
 ```
 npm install
